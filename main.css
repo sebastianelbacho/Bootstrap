@@ -1,0 +1,21 @@
+.navbar {
+    background-image: url("./img/fire.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.row {
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
+
+
+.cards {
+    position: relative;
+    top: 50px;
+    left: auto;
+    margin: 10px 20px 30px 40px;
+    
+}
